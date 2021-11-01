@@ -1,5 +1,5 @@
 
-<img src="https://github.com/isa-vit/.github/blob/main/banner/hacktoberfest21.png" width="100%">
+<img src="https://github.com/isa-vit/.github/blob/main/ISA-VIT.png" width="100%">
 <div align="center">
 <a href="https://twitter.com/isa_vit_"><img src="https://github.com/isa-vit/.github/blob/main/icons/twitter.png" width="5%">
 </a>...  
